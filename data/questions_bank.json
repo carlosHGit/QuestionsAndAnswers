@@ -1,0 +1,237 @@
+[{
+    "categoria": "Arte y literatura",
+    "dificultad": "5",
+    "pregunta": "Animal que son los polacos en la novela gráfica sobre el Holocausto nazi 'Maus'.",
+    "respuesta": "Cerdos",
+    "incorrecta1": "Ratas",
+    "incorrecta2": "Sapos",
+    "incorrecta3": "Viboras\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "dificultad": "5",
+    "pregunta": "Escribió ' El modulor'.",
+    "respuesta": "Le Corbusier",
+    "incorrecta1": "Ana Frank",
+    "incorrecta2": "Jorge Luis Borges",
+    "incorrecta3": "Charles Dickens\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "dificultad": "5",
+    "pregunta": "Músico argentino que le apodaban \"El Flaco\".",
+    "respuesta": "Luis Alberto Spinetta",
+    "incorrecta1": "Gustavo Cerati",
+    "incorrecta2": "Andrés Calamaro",
+    "incorrecta3": "Diego Torres\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "dificultad": "5",
+    "pregunta": "Arte japonés de la papiroflexia.",
+    "respuesta": "Origami",
+    "incorrecta1": "Haiku",
+    "incorrecta2": "Ikebana",
+    "incorrecta3": "Ukiyo-E\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "dificultad": "5",
+    "pregunta": "Material del que está hecho un saxofón.",
+    "respuesta": "Latón",
+    "incorrecta1": "Cromo",
+    "incorrecta2": "Cobalto",
+    "incorrecta3": "Cobre\r"
+},
+
+
+
+{
+    "categoria": "Ciencia y técnologia",
+    "dificultad": "4",
+    "pregunta": "Los elefantes…",
+    "respuesta": "Barritan",
+    "incorrecta1": "Gritan",
+    "incorrecta2": "Gruñen",
+    "incorrecta3": "Brujen\r"
+},
+{
+    "categoria": "Ciencia y técnologia",
+    "dificultad": "4",
+    "pregunta": "¿Qué hay en la boca del estómago?",
+    "respuesta": "El Cardias",
+    "incorrecta1": "El Píloro",
+    "incorrecta2": "Los Ácidos Gástricos",
+    "incorrecta3": "El Epilón Mayor\r"
+},
+{
+    "categoria": "Ciencia y técnologia",
+    "dificultad": "4",
+    "pregunta": "¿De qué color es la sangre de los peces?",
+    "respuesta": "Rojo",
+    "incorrecta1": "Verde Oscuro",
+    "incorrecta2": "Marrón Oscuro",
+    "incorrecta3": "Azul\r"
+},
+{
+    "categoria": "Ciencia y técnologia",
+    "dificultad": "4",
+    "pregunta": "¿Cuál de los siguientes órganos NO es parte del sistema inmunológico?",
+    "respuesta": "Esófago",
+    "incorrecta1": "Médula Ósea",
+    "incorrecta2": "Bazo",
+    "incorrecta3": "Timo\r"
+},
+{
+    "categoria": "Ciencia y técnologia",
+    "dificultad": "4",
+    "pregunta": "¿De dónde de saca la sacarina?",
+    "respuesta": "Del Carbón",
+    "incorrecta1": "Del Aceite De Girasol",
+    "incorrecta2": "Del Azúcar",
+    "incorrecta3": "Del Azufre\r"
+},
+
+
+
+{
+    "categoria": "Historia",
+    "dificultad": "3",
+    "pregunta": "¿En qué año tuvo lugar el ataque a Pearl Harbor?",
+    "respuesta": "1941",
+    "incorrecta1": "1939",
+    "incorrecta2": "1940",
+    "incorrecta3": "1942\r"
+},
+{
+    "categoria": "Historia",
+    "dificultad": "3",
+    "pregunta": "¿Quién es la mascota de SEGA?",
+    "respuesta": "Sonic",
+    "incorrecta1": "Mario",
+    "incorrecta2": "Pac Man",
+    "incorrecta3": "Ryu\r"
+},
+{
+    "categoria": "Historia",
+    "dificultad": "3",
+    "pregunta": "¿Quiénes fueron los sans-culottes de la Revolución Francesa?",
+    "respuesta": "La Principal Masa Social Revolucionaria",
+    "incorrecta1": "La Burguesía Durante La Revolución",
+    "incorrecta2": "Ninguna Es Correcta",
+    "incorrecta3": "El Nombre Despectivo De Los Burgueses\r"
+},
+{
+    "categoria": "Historia",
+    "dificultad": "3",
+    "pregunta": "¿Con qué hecho histórico relacionarías al \"hombre del tanque\" o \"rebelde desconocido\"?",
+    "respuesta": "Protestas De Plaza Tian'anmen, Pekín",
+    "incorrecta1": "Protestas De Plaza Tahrir, El Cairo",
+    "incorrecta2": "Protestas De Plaza Del Sol, Madrid",
+    "incorrecta3": "Protestas De Plaza De Mayo, Buenos Aires\r"
+},
+{
+    "categoria": "Historia",
+    "dificultad": "3",
+    "pregunta": "¿Cuál es la ciudad más antigua de América Latina?",
+    "respuesta": "Caral",
+    "incorrecta1": "Valparaíso",
+    "incorrecta2": "Arequipa",
+    "incorrecta3": "La Paz\r"
+},
+
+
+{
+    "categoria": "Geografía",
+    "dificultad": "2",
+    "pregunta": " ¿Qué colores tiene la bandera de Irak?",
+    "respuesta": "Rojo, Blanco, Verde Y Negro",
+    "incorrecta1": "Verde, Blanco, Azul Y Rojo",
+    "incorrecta2": "Negro, Blanco Y Azul",
+    "incorrecta3": "Negro, Amarillo Y Verde\r"
+},
+{
+    "categoria": "Geografía",
+    "dificultad": "2",
+    "pregunta": "¿Qué es Andorra?",
+    "respuesta": "Un País",
+    "incorrecta1": "Una Comida",
+    "incorrecta2": "Un Animal",
+    "incorrecta3": "Una Religión\r"
+},
+{
+    "categoria": "Geografía",
+    "dificultad": "2",
+    "pregunta": "¿El español es el idioma oficial en todos los países centroamericanos menos en uno. ¿Cuál?",
+    "respuesta": "Belice ",
+    "incorrecta1": "Panamá",
+    "incorrecta2": "Costa Rica",
+    "incorrecta3": "En Salvador\r"
+},
+{
+    "categoria": "Geografía",
+    "dificultad": "2",
+    "pregunta": " ¿Cuál es la religión mayoritaria en la India?",
+    "respuesta": "Hinduismo",
+    "incorrecta1": "Budista",
+    "incorrecta2": "Sijismo",
+    "incorrecta3": "Jainismo\r"
+},
+{
+    "categoria": "Geografía",
+    "dificultad": "2",
+    "pregunta": " ¿Cuál es la capital de Andalucía?",
+    "respuesta": "Sevilla",
+    "incorrecta1": "Córdoba",
+    "incorrecta2": "Cádiz",
+    "incorrecta3": "Málaga\r"
+},
+
+
+
+
+{
+    "categoria": "Deportes",
+    "dificultad":"1",
+    "pregunta": "¿Qué tirada necesitas en el parchís para sacar una ficha de casa?",
+    "respuesta": "5",
+    "incorrecta1": "1",
+    "incorrecta2": "3",
+    "incorrecta3": "6\r"
+},
+{
+    "categoria": "Deportes",
+    "dificultad":"1",
+    "pregunta": "¿Dónde fueron los Juegos Olímpicos en 2016?",
+    "respuesta": "Río De Janeiro",
+    "incorrecta1": "Lyon",
+    "incorrecta2": "Sevilla",
+    "incorrecta3": "Londres\r"
+},
+{
+    "categoria": "Deportes",
+    "dificultad":"1",
+    "pregunta": "¿Quién tiene el récord mundial de atletismo en 100m lisos en 9,58 segundos?",
+    "respuesta": "Usain Bolt",
+    "incorrecta1": "Carl Lewis",
+    "incorrecta2": "Tyson Gay",
+    "incorrecta3": "No Es El Récord Correcto\r"
+},
+{
+    "categoria": "Deportes",
+    "dificultad":"1",
+    "pregunta": "¿Con qué se premiaba a los campeones olímpicos de la antigüedad?",
+    "respuesta": "Corona De Laurel",
+    "incorrecta1": "Corona De Espinas",
+    "incorrecta2": "Medalla De Latón",
+    "incorrecta3": "Medalla De Estaño\r"
+},
+{
+    "categoria": "Deportes",
+    "dificultad":"1",
+    "pregunta": "¿Cuál es el deporte nacional de Japón?",
+    "respuesta": "Sumo",
+    "incorrecta1": "Judo",
+    "incorrecta2": "Béisbol",
+    "incorrecta3": "Tenis\r"
+}]
