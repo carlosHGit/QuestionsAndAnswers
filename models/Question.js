@@ -5,7 +5,7 @@ class Question {
     this.categoria = categoria;
     this.dificultad = dificultad;
     this.choices = [respuesta, incorrecta1, incorrecta2, incorrecta3];
-    //desordenar el array de opciones
+    //desordenar el array de opciones de forma aleatoria
     this.choices.sort(function () { return Math.random() - 0.5 });
     this.pregunta = pregunta;
     this.respuesta = respuesta;
