@@ -1,4 +1,4 @@
-# Challenge Sofka: CONCURSO DE PREGUNTAS Y RESPUESTAS
+# Challenge: CONCURSO DE PREGUNTAS Y RESPUESTAS
 
 En el actual repositorio, se construyó un juego de preguntas y respuestas con las siguientes carácteristicas:
 - 5 niveles de dificultad, clasificados por categoria
